@@ -10,7 +10,7 @@ function SavePass(props) {
         Ha elmented jelszavadat, gyorsabban és egyszerűbben bejelentkezhetsz a
         fakebook-ba.
       </h2>
-      <div className="flex justify-end gap-2">
+      <div className="mt-4 flex justify-end gap-2">
         <button className="font-poppins rounded-md bg-red-500 pt-2 pb-2 pl-6 pr-6 text-sm text-white">
           Jelszó mentése
         </button>

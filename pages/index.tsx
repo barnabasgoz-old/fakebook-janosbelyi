@@ -5,6 +5,8 @@ import ProfilePicChange from '../components/profilePicChange'
 import Groups from '../components/groups'
 import Pages from '../components/pages'
 import Games from '../components/games'
+import MiJarAFejedben from '../components/whatisinyourhead'
+import EskuvoUtan from '../components/eskuvoutan'
 
 const Home: NextPage = () => {
   return (
@@ -17,7 +19,9 @@ const Home: NextPage = () => {
         </div>
         <div className="w-full min-h-screen pt-2 overflow-scroll">
           <SavePass />
+          <MiJarAFejedben />
           <ProfilePicChange />
+          <EskuvoUtan />
         </div>
         <div className="w-1/2 min-h-screen overflow-hidden">
           <Games />
