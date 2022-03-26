@@ -14,12 +14,14 @@ function JogiDolgok(props) {
           Ez az oldal egy magyar nyelv "házifeladat"nak készült és semmilyen
           kapcsolatban nincs a Facebook-kal, ami a Meta vállalat tulajdona. Az
           oldalon található profilképek nem létező személyeket ábrázolnak, amit
-          a meserséges inteligencia generált{' '}
-          <a href="https://this-person-does-not-exist.com/en">
+          a mesterséges inteligencia generált{' '}
+          <a
+            className="text-blue-500 underline"
+            href="https://this-person-does-not-exist.com/en"
+          >
             ezen az oldalon
           </a>
-          . A többi kép az interneten talált képek és (nagy eséllyel) nem állnak
-          szerzői jogok védelme alatt.
+          . A többi kép (nagy eséllyel) nem áll szerzői jogok védelme alatt.
         </h2>
       </div>
     </div>
