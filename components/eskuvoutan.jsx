@@ -61,7 +61,7 @@ function EskuvoUtan(props) {
           ></Image>
           <div className="flex h-10 flex-col justify-start gap-0">
             <h3 className="cursor-pointer text-xs text-blue-600 underline">
-              Veronka Bélyi
+              Veronka Wibra
             </h3>
             <h3>Köszi! Nagyon jó lett a kép is! 🎉</h3>
           </div>

@@ -16,7 +16,7 @@ function ProfilePicChange(props) {
         ></Image>
         <h3>
           <span className="cursor-pointer text-blue-600 underline">
-            Veronka Bélyi
+            Veronka Wibra
           </span>{' '}
           megváltoztatta profilképét.
         </h3>
@@ -52,7 +52,7 @@ function ProfilePicChange(props) {
           ></Image>
           <div className="flex h-10 flex-col justify-start gap-0">
             <h3 className="cursor-pointer text-xs text-blue-600 underline">
-              Veronka Bélyi
+              Veronka Wibra
             </h3>
             <h3>
               Szép kép lett{' '}

@@ -7,6 +7,7 @@ import Pages from '../components/pages'
 import Games from '../components/games'
 import MiJarAFejedben from '../components/whatisinyourhead'
 import EskuvoUtan from '../components/eskuvoutan'
+import JogiDolgok from '../components/jogidolgok'
 
 const Home: NextPage = () => {
   return (
@@ -25,6 +26,7 @@ const Home: NextPage = () => {
         </div>
         <div className="w-1/2 min-h-screen overflow-hidden">
           <Games />
+          <JogiDolgok />
         </div>
       </div>
       
