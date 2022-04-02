@@ -14,6 +14,7 @@
 
 ### Description
 So, this was a Hungarian lesson's homework, to create someone's facebook feed.
+__Please note, that this repository is not affeilated in any way with Facebook.__
 
 ### Installation
 Clone this repository. Open it, and run `npm i`. Then, if everything is done, you can start it, by using the command `npm run dev`.
